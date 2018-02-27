@@ -1,0 +1,6 @@
+DROP TABLE player IF EXISTS;
+
+CREATE TABLE player  (
+    id VARCHAR(20) NOT NULL PRIMARY KEY,
+    name VARCHAR(20)
+);

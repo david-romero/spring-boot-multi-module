@@ -16,6 +16,7 @@
 	<modules>
 		<module>core-module</module>
 		<module>web-module</module>
+		<module>batch-module</module>
 	</modules>
 	<dependencyManagement>
 		<dependencies>
